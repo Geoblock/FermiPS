@@ -1,2 +1,2 @@
 # Tetragraph
-The software to construct a tetrahedral network for known coordinates of stars
+Software for constructing a tetrahedral network for known coordinates of stars near the Sun
