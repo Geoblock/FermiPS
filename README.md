@@ -1,4 +1,4 @@
 # FermiPS
-The Fermi Paradox Simulator on tetramesh networks 
+The Fermi Paradox Simulator for tetramesh networks 
 with known coordinates of GAIA stars
 
