@@ -1,3 +1,4 @@
-# TetraStars
-The project to construct a tetrahedral network for known coordinates of Hypparcos and Gaia stars
+# FermiSimulator
+The Fermi Paradox Simulator on tetramesh networks 
+with known coordinates of GAIA stars
 
